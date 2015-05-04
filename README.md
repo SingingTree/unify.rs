@@ -2,7 +2,7 @@
 
 Trait-based type-level equality constraint for Rust
 
-[![build status](https://api.travis-ci.org/darinmorrison/unify.rs.svg?branch=master)](https://travis-ci.org/darinmorrison/unify.rs)
+[![build status](https://api.travis-ci.org/freebroccolo/unify.rs.svg?branch=master)](https://travis-ci.org/freebroccolo/unify.rs)
 
 ## Synopsis
 
@@ -12,7 +12,7 @@ Because it is a hack, there are some limitations with how it can be used. It is 
 
 ## Documentation
 
-See the API documentation [here](http://darinmorrison.github.io/unify.rs/doc/unify/).
+See the API documentation [here](http://freebroccolo.github.io/unify.rs/doc/unify/).
 
 ## Requirements
 
